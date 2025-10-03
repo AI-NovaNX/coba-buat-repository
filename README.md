@@ -1,2 +1,2 @@
 # coba-buat-repository
-Latihan sendiri buat repository di github untuk yang pertama kali
+Repository ini dibuat sebagai Latihan sendiri buat repository di github untuk yang pertama kali
